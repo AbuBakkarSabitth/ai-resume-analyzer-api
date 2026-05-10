@@ -1,3 +1,5 @@
+![AI Resume Analyzer](thumbnail.png)
+
 # AI Resume Analyzer API
 
 A backend API that analyzes resume text and detects technical skills.
