@@ -1,6 +1,7 @@
 ![AI Resume Analyzer](thumbnail.png.png)
 
 # AI Resume Analyzer API
+https://ai-resume-analyzer-api-1v76.onrender.com/
 
 A backend API that analyzes resume text and detects technical skills.
 
