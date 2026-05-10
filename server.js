@@ -5,7 +5,7 @@ const app = express();
 const analyzeRoute = require("./routes/analyzeRoute");
 app.use(cors());
 app.use(express.json());
-
+app.use(express.static("public"));
 app.get("/", (req,res) => {
     res.send("AI Resume Analyzer API is running...");
 });
