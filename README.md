@@ -1,4 +1,4 @@
-![AI Resume Analyzer](thumbnail.png)
+![AI Resume Analyzer](thumbnail.png.png)
 
 # AI Resume Analyzer API
 
